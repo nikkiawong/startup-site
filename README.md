@@ -98,7 +98,7 @@ This website is the official website for a co-working start-up concept called 50
 
 ##### Landing Page
 
-![landing page hi-fi](img/landing-hifi.png)
+![landing page hi-fi](img/landing-hifi-v2.png)
 
 ##### About Page
 
