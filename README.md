@@ -74,9 +74,9 @@ This website is the official website for a co-working start-up concept called 50
 
 #### Low Fidelity
 
-| ![mobile landing lo-fi](img/mobile-landing-lofi.png)  | ![tablet landing lo-fi](img/tablet-landing-lofi.png) |
+| ![mobile landing lo-fi](img/mobile-landing-lofi.png) Mobile  | ![tablet landing lo-fi](img/tablet-landing-lofi.png) Tablet |
 | ------------- | ------------- |
-| ![landing page lo-fi](img/landing-page-lofi.png)  | ![landing page dropdown view lo-fi](img/landing-dropdown-lofi.png) |
+| ![landing page lo-fi](img/landing-page-lofi.png) Desktop Landing | ![landing page dropdown view lo-fi](img/landing-dropdown-lowfi.png) Desktop Landing Dropdown |
 
 ### Technologies and Resources
 
