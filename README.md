@@ -59,6 +59,9 @@ This website is the official website for a co-working start-up concept called 50
     * Commonly seen on sites of other luxury facilities and brands
   * Incorporation of heart shapes/patterns (as seen in office space repeatedly; part of brand identity)
 
+<a href="https://www.pinterest.com/nikkiawong/503works-moodboard/">Moodboard</a>
+![site moodboard](img/moodboard.jpg)
+
 ### Technologies and Resources
 
 * Bootstrap
