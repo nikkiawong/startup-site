@@ -116,4 +116,4 @@ We would have liked to add a search function but we don't know how yet. -->
 
 ### License
 
-Copyright (c) 2018 **_{ Nikki Wong }_**
+Copyright (c) 2018 **_Nikki Wong_**
