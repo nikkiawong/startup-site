@@ -86,7 +86,7 @@ This website is the official website for a co-working start-up concept called 50
 
 ##### Amenities Page
 
-![amenities page lo-fi](img/amenities-lofi.png)
+![amenities page lofi](img/amenities-lofi.png)
 
 ##### Join Page
 
