@@ -35,13 +35,16 @@ This website is the official website for a co-working start-up concept located i
     * Wants an office environment that feels up-to-par with current standards of tech company offices, different from a traditional office space
       * In particular, needs facilities and amenities above and beyond typical office facilities and amenities to attract top tech talent
     * Seeking an open space where employees can easily collaborate with one another
+    * "I want to have our own space where we can all talk easily amongst one another and create innovative work"
   * Maria, 47
     * Owner of a small consulting business
     * Seeks to save money by renting out space in a co-working office rather than renting out an entire office herself for her small team
     * Wants a space that appears high-end and polished enough for when important clients or business partners stop by
+    * "I want a nice home for my business that I can be proud of showing clients without paying an arm and a leg"
   * Andrew, 28
     * Creative director of a local design agency
     * Looking for an office space that facilitates creativity and collaboration while looking cool and trendy
+    * "I want an aesthetically pleasing and open work space where ideas and creativity can flow freely"
 
 ### Technologies and Resources
 
