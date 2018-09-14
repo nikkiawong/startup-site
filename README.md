@@ -100,6 +100,8 @@ This website is the official website for a co-working start-up concept called 50
 
 ![landing page hi-fi](img/landing-hifi-v2.png)
 
+| ![mobile landing hi-fi](img/mobile-landing-hi.png) Mobile  | ![tablet landing hi-fi](img/tablet-landing-hifi.png) Tablet |
+
 ##### About Page
 
 ![about page hi-fi](img/about-hifi.png)
@@ -110,10 +112,11 @@ This website is the official website for a co-working start-up concept called 50
 
 ### Technologies and Resources
 
-* Bootstrap
+<!-- * Bootstrap
 * jQuery
-* Sass
+* Sass -->
 * Sketch
+* Adobe Illustrator, Photoshop
 <!--
 ### Responsiveness
 
