@@ -70,6 +70,14 @@ This website is the official website for a co-working start-up concept called 50
 | ![about page sketch](img/about-sketch.jpg)  | ![amenities page sketch](img/amenities-sketch.jpg)  |
 | ![join page sketch](img/join-sketch.jpg)  | ![contact page sketch](img/contact-sketch.jpg)  |
 
+### Wireframes
+
+#### Low Fidelity
+
+| ![mobile landing lo-fi](img/mobile-landing-lofi.png)  | ![tablet landing lo-fi](img/tablet-landing-lofi.png) |
+| ------------- | ------------- |
+| ![landing page lo-fi](img/landing-page-lofi.png)  | ![landing page dropdown view lo-fi](img/landing-dropdown-lofi.png) |
+
 ### Technologies and Resources
 
 * Bootstrap
