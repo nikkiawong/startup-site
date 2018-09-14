@@ -88,6 +88,10 @@ This website is the official website for a co-working start-up concept called 50
 
 ![amenities page lo-fi](img/amenities-lofi.png)
 
+##### Join Page
+
+![join page lo-fi](img/join-lofi.png)
+
 ### Technologies and Resources
 
 * Bootstrap
