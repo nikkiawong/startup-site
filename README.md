@@ -80,6 +80,14 @@ This website is the official website for a co-working start-up concept called 50
 | ------------- | ------------- |
 | ![landing page lo-fi](img/landing-page-lofi.png) Desktop Landing | ![landing page dropdown view lo-fi](img/landing-dropdown-lowfi.png) Desktop Landing Dropdown |
 
+##### About Page
+
+![about page lo-fi](img/about-lofi.png)
+
+##### Amenities Page
+
+![amenities page lo-fi](img/amenities-lofi.png)
+
 ### Technologies and Resources
 
 * Bootstrap
