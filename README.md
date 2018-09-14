@@ -1,4 +1,4 @@
-## Co-Working Start-up Site
+## 503Works Co-Working Start-up Site
 ---
 
 #### By Nikki Wong
@@ -6,7 +6,7 @@
 
 ### Description
 
-This website is the official website for a co-working start-up concept located in the Portland area.
+This website is the official website for a co-working start-up concept called 503Works located in the downtown Portland area.
 
 ### Images
 <!--
@@ -45,6 +45,19 @@ This website is the official website for a co-working start-up concept located i
     * Creative director of a local design agency
     * Looking for an office space that facilitates creativity and collaboration while looking cool and trendy
     * "I want an aesthetically pleasing and open work space where ideas and creativity can flow freely"
+
+### Research, Inspire, and Brainstorm
+
+* Design ideas/brainstorming
+  * Brand identity elements and site design based on office space images
+    * Light, pastel aesthetic (mint/light pink/white)
+    * Minimalist with a few patterns
+    * Natural feeling
+  * Open, clean design to convey image of open and clean office space to potential customers but with a few unique design elements to give personality and "local" feeling
+  * Thin and light typefaces and black text
+  * Large images of the space to place focus on the space itself and give sense of luxuriousness
+    * Commonly seen on sites of other luxury facilities and brands
+  * Incorporation of heart shapes/patterns (as seen in office space repeatedly; part of brand identity)
 
 ### Technologies and Resources
 
