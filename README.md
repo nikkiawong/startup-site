@@ -1,5 +1,4 @@
 ## 503Works Co-Working Start-up Site
----
 
 #### By Nikki Wong
 #### Sep. 14, 2018
@@ -62,8 +61,9 @@ This website is the official website for a co-working start-up concept called 50
 <a href="https://www.pinterest.com/nikkiawong/503works-moodboard/">Moodboard</a>
 ![site moodboard](img/moodboard.jpg)
 
-### Sketch
+### Sketches
 
+![mobile/tablet sketch](img/mobile-sketch.JPG)
 | ![landing page sketch](img/landing-sketch.jpg)  | ![landing page dropdown view sketch](img/dropdown-sketch.jpg) |
 | ------------- | ------------- |
 | ![about page sketch](img/about-sketch.jpg)  | ![amenities page sketch](img/amenities-sketch.jpg)  |
