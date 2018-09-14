@@ -67,7 +67,6 @@ This website is the official website for a co-working start-up concept called 50
 | ![landing page sketch](img/landing-sketch.jpg)  | ![landing page dropdown view sketch](img/dropdown-sketch.jpg) |
 | ------------- | ------------- |
 | ![about page sketch](img/about-sketch.jpg)  | ![amenities page sketch](img/amenities-sketch.jpg)  |
-| ------------- | ------------- |
 | ![join page sketch](img/join-sketch.jpg)  | ![contact page sketch](img/contact-sketch.jpg)  |
 
 ### Technologies and Resources
