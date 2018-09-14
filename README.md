@@ -100,6 +100,10 @@ This website is the official website for a co-working start-up concept called 50
 
 ![landing page hi-fi](img/landing-hifi.png)
 
+##### About Page
+
+![about page hi-fi](img/about-hifi.png)
+
 ### Technologies and Resources
 
 * Bootstrap
