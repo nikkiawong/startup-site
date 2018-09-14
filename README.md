@@ -98,9 +98,9 @@ This website is the official website for a co-working start-up concept called 50
 
 ##### Landing Page
 
-| ![mobile landing hi-fi](img/mobile-landing-hi.png) Mobile  | ![tablet landing hi-fi](img/tablet-landing-hifi.png) Tablet |
+| ![mobile landing hi-fi](img/mobile-landing-hifi.png) Mobile  | ![tablet landing hi-fi](img/tablet-landing-hifi-v2.png) Tablet |
 | ------------- | ------------- |
-![landing page hi-fi](img/landing-hifi-v2.png)
+![landing page hi-fi](img/landing-hifi-v2.png) Desktop
 
 ##### About Page
 
