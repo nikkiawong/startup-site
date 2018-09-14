@@ -1,0 +1,70 @@
+## Co-Working Start-up Site
+---
+
+#### By Nikki Wong
+#### Sep. 14, 2018
+
+### Description
+
+This website is the official website for a co-working start-up concept located in the Portland area.
+
+### Images
+<!--
+#### Desktop Version
+
+![desktop user interface](img/landingpage.png)
+![desktop user interface](img/coursespage.png)
+![desktop user interface](img/weekdetails.png)
+![desktop user interface](img/lesson.png)
+
+#### Mobile Version
+
+![mobile user interface](img/mobile.png) -->
+
+### User Stories
+
+* Types of Users
+  * Companies seeking to rent space
+    * Tech companies
+    * Traditional businesses
+    * Creative agencies
+
+* Target User Personas
+  * John, 36
+    * Tech startup CEO
+    * Wants an office environment that feels up-to-par with current standards of tech company offices, different from a traditional office space
+      * In particular, needs facilities and amenities above and beyond typical office facilities and amenities to attract top tech talent
+    * Seeking an open space where employees can easily collaborate with one another
+  * Maria, 47
+    * Owner of a small consulting business
+    * Seeks to save money by renting out space in a co-working office rather than renting out an entire office herself for her small team
+    * Wants a space that appears high-end and polished enough for when important clients or business partners stop by
+  * Andrew, 28
+    * Creative director of a local design agency
+    * Looking for an office space that facilitates creativity and collaboration while looking cool and trendy
+
+### Technologies and Resources
+
+* Bootstrap
+* jQuery
+* Sass
+* Sketch
+<!--
+### Responsiveness
+
+This project is responsive. Content dimensions adjust based on viewport. -->
+
+### Setup Instructions
+
+* Clone this repository
+* Open a simple HTTP server in the top level of the cloned directory
+* Use git functions to add, commit, and push to the master branch in remote repository
+<!--
+### Roadmap
+
+We would have liked to add a search function but we don't know how yet. -->
+
+
+### License
+
+Copyright (c) 2018 **_{ Nikki Wong }_**
