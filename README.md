@@ -110,6 +110,10 @@ This website is the official website for a co-working start-up concept called 50
 
 ![amenities page hi-fi](img/amenities-hifi.png)
 
+##### Join Page
+
+![join page lo-fi](img/join-hifi.png)
+
 ### Technologies and Resources
 
 <!-- * Bootstrap
