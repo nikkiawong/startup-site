@@ -1,6 +1,7 @@
 $domine: 'Domine', serif;
 $roboto: 'Roboto', sans-serif;
 $blue: #b9cccc;
+$gray: #9e9e9e;
 
 @mixin contentStyle {
   position: absolute;
@@ -177,6 +178,51 @@ nav {
 .contact-link {
   a:hover {
     color: black;
+  }
+}
+
+.large-paragraph-text {
+  color: $gray;
+  width: 85%;
+  text-align: center;
+  margin: {
+    left: auto;
+    right: auto;
+  }
+}
+
+.text-box {
+  margin-top: 4vw;
+}
+
+.section {
+  margin-bottom: 4vw;
+}
+
+.card {
+  height: 30vw;
+  text-align: center;
+  .card-content {
+    padding: 2.5vw;
+  }
+  img {
+    width: 30%;
+    margin: {
+      left: auto;
+      right: auto;
+    }
+    padding-bottom: 10%;
+  }
+  .card-title {
+    font: {
+      size: 2vw;
+      weight: 700;
+      family: $domine;
+    }
+    padding-bottom: 8%;
+  }
+  p {
+    font-size: 1.25vw;
   }
 }
 
