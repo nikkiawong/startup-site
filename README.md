@@ -94,6 +94,10 @@ This website is the official website for a co-working start-up concept called 50
 
 ![join page lo-fi](src/img/join-lofi.png)
 
+##### Contact Page
+
+![contact page lo-fi](src/img/contact-lofi.png)
+
 #### High Fidelity
 
 ##### Landing Page
@@ -113,6 +117,10 @@ This website is the official website for a co-working start-up concept called 50
 ##### Join Page
 
 ![join page lo-fi](src/img/join-hifi.png)
+
+##### Contact Page
+
+![contact page hi-fi](src/img/contact-hifi.png)
 
 ### Technologies and Resources
 
