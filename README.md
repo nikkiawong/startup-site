@@ -61,11 +61,11 @@ This website is the official website for a co-working start-up concept called 50
 ### Moodboard
 
 <a href="https://www.pinterest.com/nikkiawong/503works-moodboard/">On Pinterest</a>
-![site moodboard](img/moodboard.jpg)
+![site moodboard](../img/moodboard.jpg)
 
 ### Sketches
 
-![mobile/tablet sketch](img/mobile-sketch.JPG)
+![mobile/tablet sketch](../img/mobile-sketch.JPG)
 
 | ![landing page sketch](img/landing-sketch.jpg)  | ![landing page dropdown view sketch](img/dropdown-sketch.jpg) |
 | ------------- | ------------- |
@@ -84,15 +84,15 @@ This website is the official website for a co-working start-up concept called 50
 
 ##### About Page
 
-![about page lo-fi](img/about-lofi.png)
+![about page lo-fi](../img/about-lofi.png)
 
 ##### Amenities Page
 
-![amenities page lofi](img/amenities-lofi.png)
+![amenities page lofi](../img/amenities-lofi.png)
 
 ##### Join Page
 
-![join page lo-fi](img/join-lofi.png)
+![join page lo-fi](../img/join-lofi.png)
 
 #### High Fidelity
 
@@ -104,15 +104,15 @@ This website is the official website for a co-working start-up concept called 50
 
 ##### About Page
 
-![about page hi-fi](img/about-hifi.png)
+![about page hi-fi](../img/about-hifi.png)
 
 ##### Amenities Page
 
-![amenities page hi-fi](img/amenities-hifi.png)
+![amenities page hi-fi](../img/amenities-hifi.png)
 
 ##### Join Page
 
-![join page lo-fi](img/join-hifi.png)
+![join page lo-fi](../img/join-hifi.png)
 
 ### Technologies and Resources
 
