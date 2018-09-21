@@ -4,6 +4,7 @@ import './scss/input.scss';
 import './css/output.css';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
+import $ from 'jquery';
 
 AOS.init({
   // Global settings
