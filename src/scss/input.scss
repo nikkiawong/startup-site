@@ -13,6 +13,10 @@ html, body {
   font-family: $roboto;
 }
 
+.bold {
+  font-weight: bold;
+}
+
 .hero-content {
   margin: 0;
   position: absolute;
@@ -30,13 +34,43 @@ html, body {
   }
 }
 
+.about-content {
+  display: flex;
+  margin: {
+    top: 5%;
+  }
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 55%;
+  color: white;
+  img {
+    width: 110%;
+  }
+  p {
+    line-height: 28px;
+    font-size: 1.25vw;
+  }
+  h2 {
+    margin-top: 0;
+    font-size: 2.5vw;
+  }
+}
+
 h1 {
   font: {
     family: $domine;
     size: 48px;
     weight: 300;
   }
-  // text-shadow: 1px 1px 1px black;
+}
+
+h2 {
+  font: {
+    family: $domine;
+    size: 40px;
+  }
 }
 
 p {
@@ -53,12 +87,12 @@ a {
   }
 }
 
-.hero-wrap, .background {
+.hero-wrap, .background, .about-background, .about-wrap {
   height: 100%;
   min-height: 100%;
 }
 
-html>body .hero-wrap, html>body .background {
+html>body .hero-wrap, html>body .background, html>body .about-background, html>body .about-wrap {
   height: auto;
 }
 
@@ -67,17 +101,23 @@ html>body .hero-wrap, html>body .background {
   background-size: cover;
 }
 
+.about-background {
+  background: url("../img/office-space-1.png") center center no-repeat fixed #000;
+  background-size: cover;
+  position: relative;
+}
+
 nav {
   background-color: $blue;
   font-family: $domine;
-  padding: {
-    left: 30px;
-    right: 30px;
-  }
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
+  padding: {
+    left: 30px;
+    right: 30px;
+  }
   .left-nav {
     display: flex;
     flex-direction: row;
@@ -86,8 +126,8 @@ nav {
       color: black;
     }
     li {
-      padding-left: 35px;
-      padding-right: 35px;
+      padding-left: 2vw;
+      padding-right: 2vw;
       a:hover {
         background-color: black;
         color: white;
@@ -101,6 +141,12 @@ nav {
       top: 20px;
       right: 20px;
     }
+  }
+}
+
+.contact-link {
+  a:hover {
+    color: black;
   }
 }
 
@@ -118,6 +164,9 @@ nav {
 }
 
 .footer-icons {
+  a:hover {
+    opacity: 0.6;
+  }
   img {
     padding: 0 5px;
   }
