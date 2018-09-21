@@ -2,6 +2,20 @@ $domine: 'Domine', serif;
 $roboto: 'Roboto', sans-serif;
 $blue: #b9cccc;
 
+@mixin contentStyle {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+@mixin subpageHeader {
+  display: flex;
+  margin: {
+    top: 5%;
+  }
+  top: 25%;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -18,11 +32,9 @@ html, body {
 }
 
 .hero-content {
+  @include contentStyle;
   margin: 0;
-  position: absolute;
   top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
   text-align: center;
   color: white;
   p {
@@ -35,14 +47,12 @@ html, body {
 }
 
 .about-content {
+  @include contentStyle;
   display: flex;
   margin: {
     top: 5%;
   }
-  position: absolute;
   top: 40%;
-  left: 50%;
-  transform: translate(-50%, -50%);
   width: 55%;
   color: white;
   img {
@@ -56,6 +66,11 @@ html, body {
     margin-top: 0;
     font-size: 2.5vw;
   }
+}
+
+.perks-content {
+  @include contentStyle;
+  @include subpageHeader;
 }
 
 h1 {
@@ -92,7 +107,12 @@ a {
   min-height: 100%;
 }
 
-html>body .hero-wrap, html>body .background, html>body .about-background, html>body .about-wrap {
+.perks-wrap, .perks-background {
+  height: 50%;
+  min-height: 50%;
+}
+
+html>body .hero-wrap, html>body .background, html>body .about-background, html>body .about-wrap, html>body .perks-background, html>body .perks-wrap {
   height: auto;
 }
 
@@ -105,6 +125,16 @@ html>body .hero-wrap, html>body .background, html>body .about-background, html>b
   background: url("../img/office-space-1.png") center center no-repeat fixed #000;
   background-size: cover;
   position: relative;
+}
+
+.perks-background {
+  background: url("../img/perks-bg.png") center center no-repeat fixed #000;
+  background-size: cover;
+  position: relative;
+  margin: {
+    right: 3%;
+    left: 3%;
+  }
 }
 
 nav {

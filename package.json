@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "animate.css": "^3.7.0",
     "aos": "^2.3.3",
     "jquery": "^3.3.1",
     "materialize-css": "^1.0.0",

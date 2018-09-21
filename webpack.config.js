@@ -82,6 +82,15 @@ module.exports = {
       }
     }),
 
+    new HtmlWebpackPlugin({
+      template: './src/perks.html',
+      filename: 'perks.html',
+      minify: {
+        removeComments: true,
+        collapseWhitespace: true
+      }
+    }),
+
     new UglifyJsPlugin(),
     new CleanWebpackPlugin(['dist'])
   ]
