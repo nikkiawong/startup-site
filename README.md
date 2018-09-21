@@ -61,16 +61,16 @@ This website is the official website for a co-working start-up concept called 50
 ### Moodboard
 
 <a href="https://www.pinterest.com/nikkiawong/503works-moodboard/">On Pinterest</a>
-![site moodboard](../img/moodboard.jpg)
+![site moodboard](src/img/moodboard.jpg)
 
 ### Sketches
 
-![mobile/tablet sketch](../img/mobile-sketch.JPG)
+![mobile/tablet sketch](src/img/mobile-sketch.JPG)
 
-| ![landing page sketch](img/landing-sketch.jpg)  | ![landing page dropdown view sketch](img/dropdown-sketch.jpg) |
+| ![landing page sketch](src/img/landing-sketch.jpg)  | ![landing page dropdown view sketch](src/img/dropdown-sketch.jpg) |
 | ------------- | ------------- |
-| ![about page sketch](img/about-sketch.jpg)  | ![amenities page sketch](img/amenities-sketch.jpg)  |
-| ![join page sketch](img/join-sketch.jpg)  | ![contact page sketch](img/contact-sketch.jpg)  |
+| ![about page sketch](src/img/about-sketch.jpg)  | ![amenities page sketch](src/img/amenities-sketch.jpg)  |
+| ![join page sketch](src/img/join-sketch.jpg)  | ![contact page sketch](src/img/contact-sketch.jpg)  |
 
 ### Wireframes
 
@@ -78,41 +78,41 @@ This website is the official website for a co-working start-up concept called 50
 
 ##### Landing Page
 
-| ![mobile landing lo-fi](img/mobile-landing-lofi.png) Mobile  | ![tablet landing lo-fi](img/tablet-landing-lofi.png) Tablet |
+| ![mobile landing lo-fi](src/img/mobile-landing-lofi.png) Mobile  | ![tablet landing lo-fi](src/img/tablet-landing-lofi.png) Tablet |
 | ------------- | ------------- |
-| ![landing page lo-fi](img/landing-page-lofi.png) Desktop Landing | ![landing page dropdown view lo-fi](img/landing-dropdown-lowfi.png) Desktop Landing Dropdown |
+| ![landing page lo-fi](src/img/landing-page-lofi.png) Desktop Landing | ![landing page dropdown view lo-fi](src/img/landing-dropdown-lowfi.png) Desktop Landing Dropdown |
 
 ##### About Page
 
-![about page lo-fi](../img/about-lofi.png)
+![about page lo-fi](src/img/about-lofi.png)
 
 ##### Amenities Page
 
-![amenities page lofi](../img/amenities-lofi.png)
+![amenities page lofi](src/img/amenities-lofi.png)
 
 ##### Join Page
 
-![join page lo-fi](../img/join-lofi.png)
+![join page lo-fi](src/img/join-lofi.png)
 
 #### High Fidelity
 
 ##### Landing Page
 
-| ![mobile landing hi-fi](img/mobile-landing-hifi.png) Mobile  | ![tablet landing hi-fi](img/tablet-landing-hifi-v2.png) Tablet |
+| ![mobile landing hi-fi](src/img/mobile-landing-hifi.png) Mobile  | ![tablet landing hi-fi](src/img/tablet-landing-hifi-v2.png) Tablet |
 | ------------- | ------------- |
-| ![landing page hi-fi](img/landing-hifi-v2.png) Desktop | ![landing page dropdown hi-fi](img/landing-dropdown-hifi.png) Dropdown Menu |
+| ![landing page hi-fi](src/img/landing-hifi-v2.png) Desktop | ![landing page dropdown hi-fi](src/img/landing-dropdown-hifi.png) Dropdown Menu |
 
 ##### About Page
 
-![about page hi-fi](../img/about-hifi.png)
+![about page hi-fi](src/img/about-hifi.png)
 
 ##### Amenities Page
 
-![amenities page hi-fi](../img/amenities-hifi.png)
+![amenities page hi-fi](src/img/amenities-hifi.png)
 
 ##### Join Page
 
-![join page lo-fi](../img/join-hifi.png)
+![join page lo-fi](src/img/join-hifi.png)
 
 ### Technologies and Resources
 
