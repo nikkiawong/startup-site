@@ -169,6 +169,11 @@ html>body .hero-wrap, html>body .background, html>body .about-background, html>b
   @include subpageImageHeader;
 }
 
+.contact-background {
+  background: url("../img/contact-bg.jpg") center center no-repeat fixed #000;
+  @include subpageImageHeader;
+}
+
 nav {
   background-color: $blue;
   font-family: $domine;
@@ -287,7 +292,7 @@ nav {
   }
 }
 
-.how-to {
+.how-to, .contact-info {
   .row {
     display: flex;
     flex-direction: row;
