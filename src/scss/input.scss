@@ -1,3 +1,6 @@
+$domine: 'Domine', serif;
+$blue: #b9cccc;
+
 * {
   box-sizing: border-box;
 }
@@ -6,6 +9,13 @@ html, body {
   height: 100%;
   margin: 0;
   padding: 0;
+}
+
+a {
+  color: $blue;
+  &:hover {
+    color: darken($blue, 20);
+  }
 }
 
 .hero-wrap, .background {
@@ -23,16 +33,57 @@ html>body .hero-wrap, html>body .background {
 }
 
 nav {
+  background-color: $blue;
+  font-family: $domine;
+  padding: {
+    left: 30px;
+    right: 30px;
+  }
   display: flex;
   flex-direction: row;
-  position: fixed;
+  align-items: center;
+  justify-content: space-between;
+  .left-nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    a {
+      color: black;
+    }
+    li {
+      padding-left: 35px;
+      padding-right: 35px;
+      a:hover {
+        background-color: black;
+        color: white;
+      }
+    }
+  }
   img {
-    width: 150px;
+    width: 125px;
     height: auto;
+    margin: {
+      top: 20px;
+      right: 20px;
+    }
   }
 }
 
 .footer {
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: {
+    top: 60px;
+    bottom: 40px;
+    left: 20px;
+    right: 20px;
+  }
+}
+
+.footer-icons {
+  img {
+    padding: 0 5px;
+  }
 }
