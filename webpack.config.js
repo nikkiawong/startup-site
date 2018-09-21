@@ -91,6 +91,15 @@ module.exports = {
       }
     }),
 
+    new HtmlWebpackPlugin({
+      template: './src/join.html',
+      filename: 'join.html',
+      minify: {
+        removeComments: true,
+        collapseWhitespace: true
+      }
+    }),
+
     new UglifyJsPlugin(),
     new CleanWebpackPlugin(['dist'])
   ]
