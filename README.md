@@ -126,21 +126,18 @@ This website is the official website for a co-working start-up concept called 50
 
 ### Technologies and Resources
 
-<!-- * Bootstrap
+* Materialize CSS
 * jQuery
-* Sass -->
+* Sass
 * Sketch
 * Adobe Illustrator, Photoshop
-<!--
-### Responsiveness
-
-This project is responsive. Content dimensions adjust based on viewport. -->
 
 ### Setup Instructions
 
 * Clone this repository
 * Open a simple HTTP server in the top level of the cloned directory
 * Use git functions to add, commit, and push to the master branch in remote repository
+* Run npm install
 <!--
 ### Roadmap
 
