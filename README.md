@@ -7,18 +7,20 @@
 
 This website is the official website for a co-working start-up concept called 503Works located in the downtown Portland area.
 
-### Images
-<!--
-#### Desktop Version
+### Screenshots
 
-![desktop user interface](img/landingpage.png)
-![desktop user interface](img/coursespage.png)
-![desktop user interface](img/weekdetails.png)
-![desktop user interface](img/lesson.png)
-
-#### Mobile Version
-
-![mobile user interface](img/mobile.png) -->
+![landing page 1](src/img/landing-1.png)
+![landing page 2](src/img/landing-2.png)
+![about page 1](src/img/about-1.png)
+![about page 2](src/img/about-2.png)
+![amenities page 1](src/img/amenities-1.png)
+![amenities page 2](src/img/amenities-2.png)
+![amenities page 3](src/img/amenities-3.png)
+![join page 1](src/img/join-1.png)
+![join page 2](src/img/join-2.png)
+![join page 3](src/img/join-3.png)
+![contact page 1](src/img/contact-1.png)
+![contact page 2](src/img/contact-2.png)
 
 ### User Stories
 
