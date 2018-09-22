@@ -23,10 +23,7 @@ $gray: #9e9e9e;
     text-align: center;
     border: 1px solid black;
     border-radius: 50%;
-    padding: {
-      top: 15%;
-      bottom: 15%;
-    }
+    padding: 15%;
     background-color: #f0e1de;
   }
 }
@@ -314,6 +311,14 @@ nav {
     p {
       line-height: 18px;
     }
+  }
+}
+
+.contact-addresses {
+  .row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
   }
 }
 
