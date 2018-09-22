@@ -304,6 +304,19 @@ nav {
   }
 }
 
+.contact-info {
+  .row {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .col {
+    p {
+      line-height: 18px;
+    }
+  }
+}
+
 .footer {
   display: flex;
   flex-direction: row;
